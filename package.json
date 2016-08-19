@@ -1,0 +1,25 @@
+{
+  "name": "poi-plugin-package-saver",
+  "version": "0.0.1",
+  "description": "Save all packages of game response",
+  "main": "index.cjsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayaphis/plugin-package-saver.git"
+  },
+  "author": "Ayaphis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ayaphis/plugin-package-saver/issues"
+  },
+  "homepage": "https://github.com/Ayaphis/plugin-package-saver/plugin-report#readme",
+  "poiPlugin": {
+    "title": "Package Saver",
+    "description": "",
+    "icon": "fa/pie-chart",
+    "priority": 200
+  }
+}
